@@ -9,6 +9,7 @@
 Sou estudante de Engenharia da Computação, interessado em desenvolvimento de software, banco de dados , otimização de sistemas e inteligência artificial. Gosto de explorar novas tecnologias e resolver problemas computacionais de forma eficiente.
 
 🛠️ Tecnologias e Ferramentas
+
 Linguagens: Python, Java, SQL
 
 Front-end: HTML, CSS

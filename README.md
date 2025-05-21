@@ -10,13 +10,13 @@ Sou estudante de Engenharia da Computação, interessado em desenvolvimento de s
 
 🛠️ Tecnologias e Ferramentas
 
-Linguagens: Python, Java, SQL
+Linguagens: Python, Java, SQL , C , C++ , JavaScript
 
 Front-end: HTML, CSS
 
 Banco de Dados: MySQL, PostgreSQL
 
-Outros: Git, GitHub, Linux, VS Code
+Outros: Git, GitHub, VS Code
 
 📌 Projetos em Destaque
 

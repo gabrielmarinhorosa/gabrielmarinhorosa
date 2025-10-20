@@ -12,10 +12,6 @@ Sou estudante de Engenharia da Computação, interessado em desenvolvimento de s
 
 Linguagens: Python, Java, SQL
 
-Front-end: HTML, CSS
-
-Banco de Dados: MySQL, PostgreSQL
-
 Outros: Git, GitHub, VS Code
 
 📌 Projetos em Destaque

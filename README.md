@@ -10,7 +10,7 @@ Sou estudante de Engenharia da Computação, interessado em desenvolvimento de s
 
 🛠️ Tecnologias e Ferramentas
 
-Linguagens: Python, Java, SQL , C , C++ , JavaScript
+Linguagens: Python, Java, SQL
 
 Front-end: HTML, CSS
 

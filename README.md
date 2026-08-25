@@ -4,7 +4,7 @@
 
 💡 Apaixonado por tecnologia, desenvolvimento de software e engenharia de sistemas.
 
-🔥 Sobre Mim
+Sobre Mim
 
 Sou estudante de Engenharia da Computação, interessado em desenvolvimento de software, banco de dados , otimização de sistemas e inteligência artificial. Gosto de explorar novas tecnologias e resolver problemas computacionais de forma eficiente.
 
@@ -21,7 +21,7 @@ Outros: Git, GitHub, VS Code
 
 📫 Contato
 
-📧 Email: gabrielmarinhorosa@gmail.com
+📧 Email: gabrielmarinhorosa@outlook.com
 💼 LinkedIn: www.linkedin.com/in/gabriel-marinho-0207142ba
 
 🔍 Sempre aberto a novas oportunidades e desafios! 🚀
